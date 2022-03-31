@@ -1,17 +1,17 @@
 # dragoncord-themes
 Dragoncord themes
 
-# WARNING (RU)
-ВНИМАНИЕ: ТЕМЫ ПОДДЕРЖИВАЮТСЯ ТОЛЬКО ИЗ POWERCORD
-
-ТЕМЫ ИЗ BETTER DISCORD МОГУТ НЕ РАБОТАТЬ (если работают то вам очень повезло)
-
-# WARNING (EN)
-NOTE: THEMES ARE ONLY SUPPORTED FROM POWERCORD
-
-BETTER DISCORD THEMES MAY NOT WORK (if they do, you are in luck)
-
-# How to install
+# How to install theme from Better Discord or Powercord
 1.Download theme
 
-2.Put theme to "themes" folder
+2.Open theme in any text editor
+
+3.Find all urls
+
+4.Open all urls in your browser
+
+5.Copy text in this url
+
+6.Put copied text to new file
+
+7.Restart by pressing Ctrl + R
